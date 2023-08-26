@@ -7,7 +7,7 @@ class DiceRoller extends StatefulWidget {
   const DiceRoller({super.key});
   @override
   State<DiceRoller> createState() {
-    int x = 7;
+    int x = 9;
     return _DiceRollerState();
   }
 }
